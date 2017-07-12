@@ -1,0 +1,76 @@
+#admin_options{
+					width: 100vw;
+					height: 6vh;
+					background-color: white	;
+				}
+				.options_admin{
+					width: 8vw;
+					height: 3vh;
+					background-color: lightblue;
+					float: right;
+					margin-top: 1vh;
+					margin-right: 4vw;
+					text-align: center;
+					font-size: 2vh;
+					padding-top: 1vh;
+					cursor: pointer;
+					color: white;
+				}
+				#admin_home{
+					width: 100vw;
+					height: 82vh;
+					background-color: white;
+					display: none;
+				}
+				#admin_sme{
+					width: 100vw;
+					height: 82vh;
+					background-color: white;
+					display: block;
+				}
+				#admin_request{
+					width: 100vw;
+					height: 82vh;
+					background-color: white;
+					display: none;
+				}
+				#admin_category{
+					width: 100vw;
+					height: 82vh;
+					background-color:white;
+					display: none;
+				}
+				#admin_subcategory{
+					width: 100vw;
+					height: 82vh;
+					background-color: white;
+					display: none;
+				}
+				#admin_query{
+					width: 100vw;
+					height: 82vh;
+					background-color:white;
+					display: none;
+				}
+				#show_smes{
+					width: 8vw;
+					height: 3vh;
+					margin-left: 1vw;
+					margin-top: 5vh;
+				}
+				#details_smes{
+					width: 85vw;
+					height: 82vh;
+					float: right;
+					background-color: green;
+					display: none;
+				}
+				#show_new_input{
+					width: 30vw;
+					height: 50vh;
+					border: 2px solid red;
+					float: right;
+					margin-right: 35vw;
+					margin-top: 15vh;
+					display: none;
+				}
